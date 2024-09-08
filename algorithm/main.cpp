@@ -1,14 +1,13 @@
-//
-//  main.cpp
-//  algorithm
-//
-//  Created by Minseok Kim on 9/8/24.
-//
-
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    // insert code here...
-    std::cout << "Hello, World!\n";
+using namespace std;
+
+
+int main() {
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+
+    cout << "hello world!\n";
+    
     return 0;
 }
