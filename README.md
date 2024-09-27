@@ -2,5 +2,5 @@
 
 ## Technologies Used
 
-- **Programming Languages**: C++
+- **Programming Languages**: C++, Java
 - **Platforms**: Baekjoon
