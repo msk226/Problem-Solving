@@ -3,4 +3,4 @@ algorithm.xcodeproj
 CMakeLists.txt
 cmake-build-debug/
 algorithm/main.cpp
-
+.DS_Store
